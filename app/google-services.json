@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891700631130",
+    "firebase_url": "https://iwine-eb040.firebaseio.com",
+    "project_id": "iwine-eb040",
+    "storage_bucket": "iwine-eb040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891700631130:android:09a602ad6b29963c",
+        "android_client_info": {
+          "package_name": "com.example.henri.iwine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891700631130-bhce9572h8dql7uadcri0h37dba544uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.henri.iwine",
+            "certificate_hash": "47cb76433213490400b916898e2d1acc921393aa"
+          }
+        },
+        {
+          "client_id": "891700631130-6sgpihmm2hfv89g6kitb2bt3qg40lq27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8__16kdYnLhosQ4Q8nWkMTvgqUneU0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891700631130-6sgpihmm2hfv89g6kitb2bt3qg40lq27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
